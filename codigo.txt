@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 { background: #000 }
-echo "Hello World!"
+=======
+>>>>>>> taskA10
+echo "Hello World"
