@@ -1,2 +1,2 @@
-
+{ background: #000 }
 echo "Hello World!"
